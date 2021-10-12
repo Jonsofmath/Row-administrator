@@ -7,9 +7,9 @@ Embedded Systems
 Python script for simulating a row administrator of a bank
 
 Authors:
-<ol>
+<ul>
   <li> Jonathan Ramírez Hernández
   <li> Jairo Cortés
-</ol>
+</ul>
   
 
